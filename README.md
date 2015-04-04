@@ -3,7 +3,7 @@ Inbetriebnahme der Simulation eines Gaskessels
 
 Steuerung eines simulierten Gaskessel einer Heizungsanlage mit Hilfe einer speicherprogrammierbaren Steuerung. 
 
-Das Projekt wurde mit der der Entwicklungsumgebung  "ABB Control IT  AC 800F Software" ( „Industrial IT Control Builder F“, "AC800F Builder" ) für den Fieldcontroller "ABB AC 800F" entwickelt. 
+Das Projekt wurde mit der unter Windows laufenden Entwicklungsumgebung  "ABB Control IT  AC 800F Software" ( „Industrial IT Control Builder F“, "AC800F Builder" ) für den Fieldcontroller "ABB AC 800F" entwickelt. 
 
 Eine für das Erstellen und Simulieren des Projekts ausreichende 100-Tage Demo-Version befindet sich auf der kostenlos erhältlichen DVD "Freelance 800F Quickstart Tuturial & Demo", die über ein Online-Formular auf der Seite http://new.abb.com/control-systems/essential-automation/freelance/additional-pages/freelance-quickstart-tutorial
 bestellt werden kann.
